@@ -1,0 +1,9 @@
+C:\sources\cps\cps\cps\bin\Debug\netcoreapp1.1\cps.deps.json
+C:\sources\cps\cps\cps\bin\Debug\netcoreapp1.1\cps.runtimeconfig.json
+C:\sources\cps\cps\cps\bin\Debug\netcoreapp1.1\cps.runtimeconfig.dev.json
+C:\sources\cps\cps\cps\bin\Debug\netcoreapp1.1\cps.dll
+C:\sources\cps\cps\cps\bin\Debug\netcoreapp1.1\cps.pdb
+C:\sources\cps\cps\cps\obj\Debug\netcoreapp1.1\cps.csprojResolveAssemblyReference.cache
+C:\sources\cps\cps\cps\obj\Debug\netcoreapp1.1\cps.AssemblyInfo.cs
+C:\sources\cps\cps\cps\obj\Debug\netcoreapp1.1\cps.dll
+C:\sources\cps\cps\cps\obj\Debug\netcoreapp1.1\cps.pdb
